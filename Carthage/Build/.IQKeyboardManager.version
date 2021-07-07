@@ -1,0 +1,31 @@
+{
+  "commitish" : "v6.5.6",
+  "iOS" : [
+    {
+      "hash" : "ad091ce4b5500eea9a9db588c1c6d2c099d6e481b96e613bb7d510f73e760c5c",
+      "name" : "IQKeyboardManager",
+      "container" : "IQKeyboardManager.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "83d5420fd84f994110ad061162ebb04dd6819b80a5f31168a9f35cc1fae84ebf",
+      "name" : "IQKeyboardManager",
+      "container" : "IQKeyboardManager.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "2f1608817838de1f401323deddacb7e3b225ace633556cb1a91e94d1be33dfc2",
+      "name" : "IQKeyboardManagerSwift",
+      "container" : "IQKeyboardManagerSwift.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "5cd588908407656f29e3e43812dbd233b56d431811e50023b5ed3386130919b9",
+      "name" : "IQKeyboardManagerSwift",
+      "container" : "IQKeyboardManagerSwift.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}
