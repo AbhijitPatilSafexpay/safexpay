@@ -1,0 +1,33 @@
+{
+  "commitish" : "5.15.8",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "6aa22f1af122286385a3901c3ae52173ffbe7bdeed26adc03c77b697a1db8dbc",
+      "name" : "Kingfisher",
+      "container" : "Kingfisher.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "addca8a1f86f9f7f7937139173ad091e1945683fbe79a27522ce9bf6e9783324",
+      "name" : "Kingfisher",
+      "container" : "Kingfisher.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "cdde96427aacbc7a80df1cab75b391ec5e61e5fede44128ac94419e331058e9d",
+      "name" : "KingfisherSwiftUI",
+      "container" : "KingfisherSwiftUI.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "a8100db2cf9d430bfbd0b662c80d71005f8edaf9173454378e5294fdae1d9dcd",
+      "name" : "KingfisherSwiftUI",
+      "container" : "KingfisherSwiftUI.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    }
+  ]
+}

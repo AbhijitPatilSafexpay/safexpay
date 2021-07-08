@@ -1,0 +1,19 @@
+{
+  "commitish" : "v7.1.3",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "a394cf0353c085ca1e071ff97c637f774b576bf4d22cb535a9d07713a87ee6c9",
+      "name" : "RSSelectionMenu",
+      "container" : "RSSelectionMenu.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)",
+      "hash" : "ca0e678b0d832f9dc604d9dfccd0c2a63549e522baca48c46f92fb71185d466d",
+      "name" : "RSSelectionMenu",
+      "container" : "RSSelectionMenu.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}
