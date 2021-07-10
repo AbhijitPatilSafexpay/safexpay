@@ -6,7 +6,7 @@
 	<dict>
 		<key>AddCardCell.nib</key>
 		<data>
-		6vqnh6eVJKsKF6uTNAdXjRXYJk4=
+		mgY8QK5Pb5i+7ZD958J3Qo/7bI0=
 		</data>
 		<key>Assets.car</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>CardView.nib</key>
 		<data>
-		l9nHoHKeXb3qrFX2SE1Dh99z9M8=
+		ETmjHxnW79LIjw6gZx3S7+G791g=
 		</data>
 		<key>ContactDetailsVC.nib</key>
 		<data>
-		NNSLNV4wkFeUGNGtj5d7eSZhg7s=
+		MDbPhwXBpm7GJf7DMxhqlEunSKI=
 		</data>
 		<key>Headers/SafexPay-Swift.h</key>
 		<data>
@@ -28,29 +28,37 @@
 		<data>
 		K69BbSwcFK27jtB+a/NQhmI/tQY=
 		</data>
+		<key>Modules/SafexPay.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		igV4qA8AXgI2gM0uBG5+hoGifFs=
+		</data>
+		<key>Modules/SafexPay.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<data>
+		igV4qA8AXgI2gM0uBG5+hoGifFs=
+		</data>
 		<key>Modules/SafexPay.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		lv/Jpj0AcMkoYZPN4WElmp2g/DY=
+		BopK5J37Jk0852WuAWB8GvO1ueQ=
 		</data>
 		<key>Modules/SafexPay.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		TGYS97IWDkdpgxgnBVBQx0ptCGY=
+		K6eMkLnZraFYk6iNMiRjtfCLbXQ=
 		</data>
 		<key>Modules/SafexPay.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/pu+dNm/53hLpXbrLucuRGej27I=
+		bZMl5gWszQwWCANDNTjpl/l7NGE=
 		</data>
 		<key>Modules/SafexPay.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		lv/Jpj0AcMkoYZPN4WElmp2g/DY=
+		BopK5J37Jk0852WuAWB8GvO1ueQ=
 		</data>
 		<key>Modules/SafexPay.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		TGYS97IWDkdpgxgnBVBQx0ptCGY=
+		K6eMkLnZraFYk6iNMiRjtfCLbXQ=
 		</data>
 		<key>Modules/SafexPay.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		/pu+dNm/53hLpXbrLucuRGej27I=
+		bZMl5gWszQwWCANDNTjpl/l7NGE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,51 +66,51 @@
 		</data>
 		<key>NetbankingCell.nib/objects-12.3+.nib</key>
 		<data>
-		iupvyV0NP02oEQN1kQcPrdfJDHw=
+		JRWTdco4wxaw719eQCbKuxlJ3wI=
 		</data>
 		<key>NetbankingCell.nib/runtime.nib</key>
 		<data>
-		K3zeUQ3IA9xAcvytLPeyUAa5CDk=
+		Uy0nzmRlrH71jKluiMK9bHutszg=
 		</data>
 		<key>NetbankingView.nib</key>
 		<data>
-		y3lEtQnPUNvuLo/jWQdX4gkoJYw=
+		CqqoD7yaGkd1trhjxNt1qieZRZY=
 		</data>
 		<key>PaymentDetailVC.nib</key>
 		<data>
-		1b5U4mZvuvsP1UEI3W12YRZVAPc=
+		EitW6btVLzhub2zchamN4CnOqig=
 		</data>
 		<key>PaymentModeCell.nib</key>
 		<data>
-		/wSxllz3BFWfvRTgnU7qDExThU8=
+		2ggxION4GW7vOCtkaKGhLFmqzSQ=
 		</data>
 		<key>PaymentModesVC.nib</key>
 		<data>
-		St3Ao5/V4/fvOElIoNTANBz3sWs=
+		a78T2RLnq6eisRd2hh3j616Ps+4=
 		</data>
 		<key>SavedCardCell.nib/objects-12.3+.nib</key>
 		<data>
-		VId+ms5Cwg2Ld+Ce7QE744VL5XU=
+		am8OnijYTguKkVC/2wKoX4qaZnA=
 		</data>
 		<key>SavedCardCell.nib/runtime.nib</key>
 		<data>
-		1rBYCGQnj9aCqeXkdPA6KSpqZJc=
+		0ZGPXc4ossjzrrMC4eMLgTPNm+E=
 		</data>
 		<key>SavedCardCollection.nib</key>
 		<data>
-		GAJ4o0UUINTpN8kca/kzgphzK6c=
+		PgX9MBkitVJxyFYSNeNr0/76Edc=
 		</data>
 		<key>SavedCardsHeader.nib</key>
 		<data>
-		FNjASIx3L/5ex89N4DI1/8Ki3tU=
+		oMZi8Z+ySAP0+NGnUBrS/IMl0Wg=
 		</data>
 		<key>TransactionVC.nib</key>
 		<data>
-		qF5Qu2N7tenWuExdxSmYjUMdHcQ=
+		ZSzg3iE/Q76kq9EST3NMo94wMg4=
 		</data>
 		<key>TransactionView.nib</key>
 		<data>
-		Uv5iyPxEBSgC0o+t0yF1XQ+TGiQ=
+		xANkwTH0MI12Lh9rp9Hw8VCHmQs=
 		</data>
 		<key>Ubuntu-Bold.ttf</key>
 		<data>
@@ -138,23 +146,23 @@
 		</data>
 		<key>UpiView.nib</key>
 		<data>
-		rxVWM5KXfgEW7abF9mt2tGg2lDY=
+		MTL60C4UDHeTHvjY2Fq7dF03i88=
 		</data>
 		<key>WalletCell.nib/objects-12.3+.nib</key>
 		<data>
-		j9RnPVcoh4Rkia858EujXu6TSck=
+		X69uz+eBgJ8awfF5nPFatcSZG0o=
 		</data>
 		<key>WalletCell.nib/runtime.nib</key>
 		<data>
-		xmszIUSRgOTmGDQQZZpfBGp5Nr0=
+		v0eyZfrbCFwsWqPwNoZ5mzwOPl8=
 		</data>
 		<key>WalletView.nib</key>
 		<data>
-		tk8KqaBClpHb6A/6XK1KKXWen5E=
+		8NgYjJB1QurHMMg/HBxdQoInfxM=
 		</data>
 		<key>WebVC.nib</key>
 		<data>
-		iLhxvqxQYasHPHvTSqS2e2BHds4=
+		LpQpGc1RUFVn7fX2EYmY9Iu4LNY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -163,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A039Dw3adP9eQqJIdQ0LldKXclmVv+MTm8p9c3p0xOI=
+			WO+4VdJDq3faFOZvxqjzvU9yOR+kZ2PGbRcn1rQcrm4=
 			</data>
 		</dict>
 		<key>Assets.car</key>
@@ -177,14 +185,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p1MGYTEnUyHemAgUowqtkQzv5j9IoAU71W4xQunGDKU=
+			eCGcuNVuF10kkD/ZLDLYcoD3iLP8kpprWRWIas7r2d8=
 			</data>
 		</dict>
 		<key>ContactDetailsVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1XftxhxBV6AIE+PBVsO123IMQXG5hA4TAu5IAwB6AU=
+			fK7vN5rx8ijzBywSJTOhrH1QMq5QprFDG5CQg8QwJOg=
 			</data>
 		</dict>
 		<key>Headers/SafexPay-Swift.h</key>
@@ -194,46 +202,60 @@
 			NHnEWjsIkgJk6nOlB3ocb3FjgWz+z5SffxyOGBVLyNw=
 			</data>
 		</dict>
+		<key>Modules/SafexPay.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GijXUAQNzbm0EObgLDF33arUSUu4AmSt39GSHHsub10=
+			</data>
+		</dict>
+		<key>Modules/SafexPay.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GijXUAQNzbm0EObgLDF33arUSUu4AmSt39GSHHsub10=
+			</data>
+		</dict>
 		<key>Modules/SafexPay.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			StUTaJiGzaO5iPlueIjUEHKkJSj6dCs0RI8EfMzBlOQ=
+			p/wg0D+ZTYKtArqbVBTZUmfKm2Egyqa7ewPV/yt6+lk=
 			</data>
 		</dict>
 		<key>Modules/SafexPay.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TM++dcwcuTcfyzFZq4CN43Kv3pcIk7qmmVAljkr6Pi4=
+			7scc4Qhc7YjnH/5ofTy6K9eq+uq/+9gtmuG3kYLkt9M=
 			</data>
 		</dict>
 		<key>Modules/SafexPay.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8A+tu45unyDHS8THPd/q3ZCGa2icwXy1dU8Xq8BwVTE=
+			x4GeXx466F3eFZ1P1S3Xsw2AQqfZSb56BbpsoV+6yik=
 			</data>
 		</dict>
 		<key>Modules/SafexPay.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			StUTaJiGzaO5iPlueIjUEHKkJSj6dCs0RI8EfMzBlOQ=
+			p/wg0D+ZTYKtArqbVBTZUmfKm2Egyqa7ewPV/yt6+lk=
 			</data>
 		</dict>
 		<key>Modules/SafexPay.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TM++dcwcuTcfyzFZq4CN43Kv3pcIk7qmmVAljkr6Pi4=
+			7scc4Qhc7YjnH/5ofTy6K9eq+uq/+9gtmuG3kYLkt9M=
 			</data>
 		</dict>
 		<key>Modules/SafexPay.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8A+tu45unyDHS8THPd/q3ZCGa2icwXy1dU8Xq8BwVTE=
+			x4GeXx466F3eFZ1P1S3Xsw2AQqfZSb56BbpsoV+6yik=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -247,84 +269,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HSYp25RC0yrwlbreYWyHeuUiKA9BW4YroHXO2nuk+Ok=
+			X7oRochhB3YP9vNUIGzG0CYzS0RROQ9CWz07WVqqPuY=
 			</data>
 		</dict>
 		<key>NetbankingCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9qdtYtxMDjZbQFTV/4l9LQ70Hqy+DPvaBeCgJORz5UM=
+			6E1zx5rdxwsKUaDCBJgwWqyB7gWKHiWpnTEYm3BAzc4=
 			</data>
 		</dict>
 		<key>NetbankingView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vyvBnqw9NMJu9BfAOxyXXjJEp152DxWqeJHCEgpClJc=
+			cvPG0+MXiViX4EhKiLA+nUy48Z+xRAwyIWbx5z86sB8=
 			</data>
 		</dict>
 		<key>PaymentDetailVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ukkif001UHxhFE+ml1p8TC/ID2PBQ75o+GYRzC8qSgg=
+			aQnTdANVY6kbwa5M8sNcGauPxjAZ5OopYQ3LHFb4vJI=
 			</data>
 		</dict>
 		<key>PaymentModeCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WtAp2rSSkW7Cph32YWd0nKHW/BHq7ReSHmy2ZCwKY8Q=
+			lwoExbd1MH51GZPwfanizojbfvDZ8jdcSePTKep+GGA=
 			</data>
 		</dict>
 		<key>PaymentModesVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qL77XqkZIY5kbUxlxESXvNjANK/cjGaUzCXmpWpPiXc=
+			QgLPVsNd5pB1ZSj4UG+/PavjlSfvJjWTh2N5LuQ2y0I=
 			</data>
 		</dict>
 		<key>SavedCardCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aGWvFMA1CF0eXDhvluMNf61tsZ2JF19cykFrWB+O7Jw=
+			EY6KFSGqx4Tt6mdB4kus2XpaAYiBGfMk2luc0CDCfuo=
 			</data>
 		</dict>
 		<key>SavedCardCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2sbJNpHUlICBnKwO5r+2AVtLcuUHGP7eB59vC4KeF/Y=
+			1nbVhEeJwrBGqgY+9oNncnyForNGe+l6ejZyxBD4i8s=
 			</data>
 		</dict>
 		<key>SavedCardCollection.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6KnxY8NdAGfbF8LECix/37gPqd3jFm0KW9ewQxwvb+A=
+			syzzoQEVhGI+mTzA+QxWobOjc9Br7gWKWdrUaBOlmlc=
 			</data>
 		</dict>
 		<key>SavedCardsHeader.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n79qgUecktoxCRxYSFveJKWHXQc5ICPOkbjpFPHRayk=
+			PmCMNo71USGAJ29py4aDzKzfMIKwenw1Q8RflrjoSaU=
 			</data>
 		</dict>
 		<key>TransactionVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hNcktXAyne0oufJIU0EHyBt6DxqCZCUjgejejtjN4zI=
+			ItI7AEZGHI15AnTlhotYME6lFNEqLD3P3LNQglGN4m8=
 			</data>
 		</dict>
 		<key>TransactionView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OOLjzePlZhNm7/6YPw883iJaw8Vn0FLbNN0AsU4NtNg=
+			b33MqWRyQVCFfLH0Cs2cvr1P7b6kWLz6N4gRUA2PTtY=
 			</data>
 		</dict>
 		<key>Ubuntu-Bold.ttf</key>
@@ -387,35 +409,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zWBmiJylxS58RxT+HWPuP5fXz84z8JCHTYoV84YGcHk=
+			f1ay+DrA3YQhuzaJR+DJrs7DiGMHFgcUZ54H49PJNe4=
 			</data>
 		</dict>
 		<key>WalletCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OMByfxPHSzoHt1qslEBP0IeBpiG/UDd/jiLAVF4iFFU=
+			18Bx1GrRyTB+HBSRFGg4o6papn1G+MlzTtXL4TeWO2g=
 			</data>
 		</dict>
 		<key>WalletCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrQSIfSvqUeGurJWU2iOAv4QhlyRT3EyZ6U5WleJecs=
+			dzUpdB/oEfar5AhHuFIRatqRowoY31T0QmcCQEblBvY=
 			</data>
 		</dict>
 		<key>WalletView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DEapi11g2atTQ6vf+yHiidey24I/i/lzVFM3P04yKzc=
+			JX9m+W0kiyV86aR/CutsWsg02kq30clYlb9nzJT7KVM=
 			</data>
 		</dict>
 		<key>WebVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M4mSbFoxgr8qwlKyXOD3jTG9Vhun9jL5Hr37h8/iJaQ=
+			7SF4el9xrrFlS4bnGtmQE+KgfKOryeJCJt38gjX9PBI=
 			</data>
 		</dict>
 	</dict>
