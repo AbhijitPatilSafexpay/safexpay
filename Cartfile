@@ -1,7 +1,0 @@
-github "hackiftekhar/IQKeyboardManager"
-github "rushisangani/RSSelectionMenu"
-github "krzyzanowskim/CryptoSwift"
-github "Alamofire/Alamofire" ~> 5.2
-github "onevcat/Kingfisher" ~> 5.8.0
-github "Flight-School/AnyCodable" ~> 0.4.0
-github "SVProgressHUD/SVProgressHUD"
