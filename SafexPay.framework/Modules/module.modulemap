@@ -1,4 +1,0 @@
-framework module SafexPay {
-  header "SafexPay-Swift.h"
-  requires objc
-}

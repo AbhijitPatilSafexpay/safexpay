@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Ubuntu-Medium.ttf">
+            <string>Ubuntu-Medium</string>
+        </array>
+        <array key="Ubuntu-Regular.ttf">
+            <string>Ubuntu-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UpiView" customModule="SafexPay" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="UpiView" customModule="SafexPay" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="502"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GW7-wH-lgE">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="90"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back" translatesAutoresizingMaskIntoConstraints="NO" id="MOf-Zp-xVB">
+                            <rect key="frame" x="15" y="15" width="10" height="10"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="10" id="noa-aE-Q5I"/>
+                                <constraint firstAttribute="width" secondItem="MOf-Zp-xVB" secondAttribute="height" multiplier="1:1" id="yz0-Nl-O85"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BACK TO PAYMENT METHODS" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dQs-Cx-jf8">
+                            <rect key="frame" x="30" y="13" width="165" height="14"/>
+                            <fontDescription key="fontDescription" name="Ubuntu-Regular" family="Ubuntu" pointSize="12"/>
+                            <color key="textColor" red="0.45098039220000002" green="0.4549019608" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jqQ-sB-ILV">
+                            <rect key="frame" x="15" y="10" width="180" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="AHn-Os-AGr"/>
+                            </constraints>
+                            <state key="normal">
+                                <color key="titleColor" red="0.45098039220000002" green="0.4549019608" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="backToMainPressed:" destination="iN0-l3-epB" eventType="touchUpInside" id="PnT-LD-8Fq"/>
+                            </connections>
+                        </button>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="She-Xp-hvR">
+                            <rect key="frame" x="15" y="40" width="384" height="35"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="qeu-qo-mnO">
+                                    <rect key="frame" x="10" y="5" width="25" height="25"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="25" id="VWd-rd-XvZ"/>
+                                        <constraint firstAttribute="width" secondItem="qeu-qo-mnO" secondAttribute="height" multiplier="1:1" id="qzL-6t-EL2"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kqb-m1-eL6">
+                                    <rect key="frame" x="45" y="10.5" width="30" height="14"/>
+                                    <fontDescription key="fontDescription" name="Ubuntu-Regular" family="Ubuntu" pointSize="12"/>
+                                    <color key="textColor" red="0.45098039220000002" green="0.4549019608" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                            <constraints>
+                                <constraint firstItem="kqb-m1-eL6" firstAttribute="centerY" secondItem="She-Xp-hvR" secondAttribute="centerY" id="82X-GD-9AG"/>
+                                <constraint firstItem="qeu-qo-mnO" firstAttribute="leading" secondItem="She-Xp-hvR" secondAttribute="leading" constant="10" id="Ccd-RI-mFg"/>
+                                <constraint firstItem="kqb-m1-eL6" firstAttribute="leading" secondItem="qeu-qo-mnO" secondAttribute="trailing" constant="10" id="KI3-qI-3ur"/>
+                                <constraint firstItem="qeu-qo-mnO" firstAttribute="centerY" secondItem="She-Xp-hvR" secondAttribute="centerY" id="hlP-Gs-tqk"/>
+                                <constraint firstAttribute="height" constant="35" id="qeh-da-sps"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" red="0.94117647059999998" green="0.98823529409999999" blue="0.99607843139999996" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="She-Xp-hvR" firstAttribute="leading" secondItem="GW7-wH-lgE" secondAttribute="leading" constant="15" id="0ec-RG-a6c"/>
+                        <constraint firstItem="dQs-Cx-jf8" firstAttribute="leading" secondItem="MOf-Zp-xVB" secondAttribute="trailing" constant="5" id="3ez-Yi-Igm"/>
+                        <constraint firstItem="jqQ-sB-ILV" firstAttribute="trailing" secondItem="dQs-Cx-jf8" secondAttribute="trailing" id="9cV-5A-yDf"/>
+                        <constraint firstAttribute="height" constant="90" id="Aso-xP-otq"/>
+                        <constraint firstItem="jqQ-sB-ILV" firstAttribute="leading" secondItem="GW7-wH-lgE" secondAttribute="leading" constant="15" id="B1N-ZX-Q33"/>
+                        <constraint firstAttribute="trailing" secondItem="She-Xp-hvR" secondAttribute="trailing" constant="15" id="Fb9-6r-Xly"/>
+                        <constraint firstItem="dQs-Cx-jf8" firstAttribute="centerY" secondItem="MOf-Zp-xVB" secondAttribute="centerY" id="Muj-UJ-Wtw"/>
+                        <constraint firstItem="MOf-Zp-xVB" firstAttribute="leading" secondItem="GW7-wH-lgE" secondAttribute="leading" constant="15" id="iqu-si-eI6"/>
+                        <constraint firstItem="She-Xp-hvR" firstAttribute="top" secondItem="jqQ-sB-ILV" secondAttribute="bottom" constant="10" id="s0v-4E-NGo"/>
+                        <constraint firstItem="jqQ-sB-ILV" firstAttribute="centerY" secondItem="dQs-Cx-jf8" secondAttribute="centerY" id="swY-vG-HFB"/>
+                        <constraint firstItem="MOf-Zp-xVB" firstAttribute="top" secondItem="GW7-wH-lgE" secondAttribute="top" constant="15" id="zbY-Me-H0O"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="PAY USING UPI ID" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="at8-uO-gRd">
+                    <rect key="frame" x="30" y="105" width="118.5" height="17"/>
+                    <fontDescription key="fontDescription" name="Ubuntu-Regular" family="Ubuntu" pointSize="15"/>
+                    <color key="textColor" red="0.45098039215686275" green="0.45490196078431372" blue="0.46666666666666667" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="qrcode" translatesAutoresizingMaskIntoConstraints="NO" id="uNC-3I-4PM">
+                    <rect key="frame" x="147" y="132" width="120" height="120"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="120" id="gRs-zh-d52"/>
+                        <constraint firstAttribute="width" secondItem="uNC-3I-4PM" secondAttribute="height" multiplier="1:1" id="nUt-GA-up5"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ndo-Ej-1Ub">
+                    <rect key="frame" x="162" y="267" width="90" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="90" id="ZPg-qX-03b"/>
+                        <constraint firstAttribute="height" constant="30" id="xr8-SG-D4O"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Ubuntu-Medium" family="Ubuntu" pointSize="12"/>
+                    <state key="normal" title="DOWNLOAD">
+                        <color key="titleColor" red="0.0" green="0.60784313725490191" blue="0.87450980392156863" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xHm-N4-kUU">
+                    <rect key="frame" x="15" y="312" width="384" height="128"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="UP" translatesAutoresizingMaskIntoConstraints="NO" id="mdH-kB-TpJ">
+                            <rect key="frame" x="20" y="10" width="30" height="30"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="mdH-kB-TpJ" secondAttribute="height" multiplier="1:1" id="xkc-KW-Bqj"/>
+                                <constraint firstAttribute="height" constant="30" id="yae-3b-QjO"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="UPI ID" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oc2-D6-ufb">
+                            <rect key="frame" x="60" y="10" width="43.5" height="17"/>
+                            <fontDescription key="fontDescription" name="Ubuntu-Medium" family="Ubuntu" pointSize="15"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Google Pay, BHIM, PhonePe &amp; more" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UoZ-D0-1QT">
+                            <rect key="frame" x="60" y="32" width="209.5" height="15"/>
+                            <fontDescription key="fontDescription" name="Ubuntu-Regular" family="Ubuntu" pointSize="13"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Enter your UPI ID" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Emy-r7-paB" customClass="UnderLineImageTextField" customModule="SafexPay" customModuleProvider="target">
+                            <rect key="frame" x="60" y="57" width="304" height="30"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="iie-on-Jtd"/>
+                            </constraints>
+                            <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <fontDescription key="fontDescription" name="Ubuntu-Regular" family="Ubuntu" pointSize="14"/>
+                            <textInputTraits key="textInputTraits"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="color" keyPath="bottomLineColor">
+                                    <color key="value" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cusborderWidth">
+                                    <real key="value" value="0.5"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </textField>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="Emy-r7-paB" secondAttribute="trailing" constant="20" id="1cc-1r-Nsm"/>
+                        <constraint firstItem="mdH-kB-TpJ" firstAttribute="top" secondItem="xHm-N4-kUU" secondAttribute="top" constant="10" id="JFN-EU-y8T"/>
+                        <constraint firstItem="Emy-r7-paB" firstAttribute="top" secondItem="UoZ-D0-1QT" secondAttribute="bottom" constant="10" id="P67-KQ-c72"/>
+                        <constraint firstItem="oc2-D6-ufb" firstAttribute="top" secondItem="xHm-N4-kUU" secondAttribute="top" constant="10" id="Pnu-Wj-kLv"/>
+                        <constraint firstItem="Emy-r7-paB" firstAttribute="leading" secondItem="UoZ-D0-1QT" secondAttribute="leading" id="WHu-Tv-C1u"/>
+                        <constraint firstItem="UoZ-D0-1QT" firstAttribute="leading" secondItem="oc2-D6-ufb" secondAttribute="leading" id="a6r-xN-6QO"/>
+                        <constraint firstItem="mdH-kB-TpJ" firstAttribute="leading" secondItem="xHm-N4-kUU" secondAttribute="leading" constant="20" id="aTs-dB-6hh"/>
+                        <constraint firstItem="oc2-D6-ufb" firstAttribute="leading" secondItem="mdH-kB-TpJ" secondAttribute="trailing" constant="10" id="fWx-94-LXd"/>
+                        <constraint firstItem="UoZ-D0-1QT" firstAttribute="top" secondItem="oc2-D6-ufb" secondAttribute="bottom" constant="5" id="fd0-bd-pnO"/>
+                        <constraint firstAttribute="height" constant="128" id="nLu-Ws-uQF"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="V5b-cV-BGw">
+                    <rect key="frame" x="0.0" y="452" width="414" height="50"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nuU-Bl-BVC">
+                            <rect key="frame" x="83" y="5" width="248" height="40"/>
+                            <color key="backgroundColor" red="0.45098039220000002" green="0.4549019608" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="jl8-Cr-WBc"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Ubuntu-Medium" family="Ubuntu" pointSize="12"/>
+                            <state key="normal" title="PAY NOW">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="payBtnPressed:" destination="iN0-l3-epB" eventType="touchUpInside" id="6CV-nA-2x2"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                    <constraints>
+                        <constraint firstItem="nuU-Bl-BVC" firstAttribute="centerY" secondItem="V5b-cV-BGw" secondAttribute="centerY" id="Eis-NR-d6g"/>
+                        <constraint firstItem="nuU-Bl-BVC" firstAttribute="width" secondItem="V5b-cV-BGw" secondAttribute="width" multiplier="0.6" id="H6W-PQ-axf"/>
+                        <constraint firstAttribute="height" constant="50" id="eDJ-JK-0nU"/>
+                        <constraint firstItem="nuU-Bl-BVC" firstAttribute="centerX" secondItem="V5b-cV-BGw" secondAttribute="centerX" id="gnt-AQ-b5Q"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="GW7-wH-lgE" secondAttribute="trailing" id="36u-Yx-G4l"/>
+                <constraint firstItem="GW7-wH-lgE" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="6cy-1U-MXy"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="V5b-cV-BGw" secondAttribute="bottom" id="9Th-nW-gxl"/>
+                <constraint firstItem="xHm-N4-kUU" firstAttribute="top" secondItem="Ndo-Ej-1Ub" secondAttribute="bottom" constant="15" id="BQA-By-kl5"/>
+                <constraint firstItem="uNC-3I-4PM" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Dm7-KJ-5U2"/>
+                <constraint firstItem="at8-uO-gRd" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="30" id="Jf6-M3-eOA"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="V5b-cV-BGw" secondAttribute="trailing" id="Ytv-m8-ayk"/>
+                <constraint firstItem="V5b-cV-BGw" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Z7L-xT-ybv"/>
+                <constraint firstItem="Ndo-Ej-1Ub" firstAttribute="top" secondItem="uNC-3I-4PM" secondAttribute="bottom" constant="15" id="dby-zq-e1p"/>
+                <constraint firstItem="GW7-wH-lgE" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="jFI-1q-3Iq"/>
+                <constraint firstItem="xHm-N4-kUU" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="15" id="mNe-h1-EJN"/>
+                <constraint firstItem="at8-uO-gRd" firstAttribute="top" secondItem="GW7-wH-lgE" secondAttribute="bottom" constant="15" id="pnJ-FQ-uP8"/>
+                <constraint firstItem="Ndo-Ej-1Ub" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="qgL-eN-MVD"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="xHm-N4-kUU" secondAttribute="trailing" constant="15" id="qlX-NJ-abn"/>
+                <constraint firstItem="uNC-3I-4PM" firstAttribute="top" secondItem="at8-uO-gRd" secondAttribute="bottom" constant="10" id="zli-M6-6rP"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="backButton" destination="jqQ-sB-ILV" id="0J7-ZD-NMY"/>
+                <outlet property="contentView" destination="xHm-N4-kUU" id="FDj-4u-dkH"/>
+                <outlet property="payBtn" destination="nuU-Bl-BVC" id="bIK-VT-6tf"/>
+                <outlet property="qrDownloadBtn" destination="Ndo-Ej-1Ub" id="9Wc-f7-JBZ"/>
+                <outlet property="qrImage" destination="uNC-3I-4PM" id="TOG-Ct-904"/>
+                <outlet property="titleImg" destination="qeu-qo-mnO" id="aCy-GA-rAo"/>
+                <outlet property="titleLbl" destination="kqb-m1-eL6" id="NoU-AW-VhL"/>
+                <outlet property="upiTxtFld" destination="Emy-r7-paB" id="AxM-8w-mGA"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="-38.169642857142854"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="UP" width="64" height="64"/>
+        <image name="back" width="100" height="100"/>
+        <image name="qrcode" width="512" height="512"/>
+    </resources>
+</document>
