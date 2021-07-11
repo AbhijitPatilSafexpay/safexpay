@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = 'SafexPay'
-  spec.version      = '1.2.5'
+  spec.version      = '1.2.6'
   spec.summary      = 'SafexPay framework'
   spec.homepage     = 'https://github.com/AbhijitPatilSafexpay/safexpay'
   spec.description  = 'SafexPay framework for payments.'
