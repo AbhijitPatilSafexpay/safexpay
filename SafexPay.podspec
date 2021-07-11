@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = 'SafexPay'
-  spec.version      = '1.2.7'
+  spec.version      = '1.2.8'
   spec.summary      = 'SafexPay framework'
   spec.homepage     = 'https://github.com/AbhijitPatilSafexpay/safexpay'
   spec.description  = 'SafexPay framework for payments.'
@@ -14,12 +14,11 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => 'https://github.com/AbhijitPatilSafexpay/safexpay.git', :tag => "#{spec.version}" }
 
   spec.requires_arc = true
-  spec.vendored_frameworks = 'SafexPay.framework'
+  
 
   spec.exclude_files = "Classes/Exclude"
 
-  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+
 
   spec.dependency 'IQKeyboardManager'
   spec.dependency 'RSSelectionMenu'
