@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = 'SafexPay'
-  spec.version      = '1.2.9'
+  spec.version      = '1.3.0'
   spec.summary      = 'SafexPay framework'
   spec.homepage     = 'https://github.com/AbhijitPatilSafexpay/safexpay'
   spec.description  = 'SafexPay framework for payments.'
@@ -11,6 +11,7 @@ Pod::Spec.new do |spec|
   spec.swift_version = '5.0'
   spec.ios.deployment_target = '9.0'
   spec.source       = { :git => 'https://github.com/AbhijitPatilSafexpay/safexpay.git', :tag => "#{spec.version}" }
+  spec.source_files = "safexpay/**/*"
   spec.requires_arc = true
   spec.exclude_files = "Classes/Exclude"
 
