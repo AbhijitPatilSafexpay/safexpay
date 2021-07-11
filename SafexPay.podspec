@@ -18,5 +18,7 @@ Pod::Spec.new do |spec|
 
   spec.exclude_files = "Classes/Exclude"
 
-  
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+
 end
