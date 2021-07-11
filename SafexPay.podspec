@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'RSSelectionMenu'
   spec.dependency 'CryptoSwift'
   spec.dependency 'Alamofire'
-  spec.dependency 'KRProgressHUD'
+  spec.dependency 'SVProgressHUD'
   spec.dependency 'Kingfisher'
 
 end
