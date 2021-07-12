@@ -6,7 +6,7 @@
 	<dict>
 		<key>AddCardCell.nib</key>
 		<data>
-		YMdOhie7Qf0J7dr0jNrZ4PF7ku0=
+		kFblu7skLJBBt5GN8dXOlSTydwE=
 		</data>
 		<key>Assets.car</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>CardView.nib</key>
 		<data>
-		U5TpQCc9nFUhO1wAJZHsaiOdHNI=
+		s8aL/QGWs5mmXaC4jVB8wEsJBI0=
 		</data>
 		<key>ContactDetailsVC.nib</key>
 		<data>
-		eyYHbMgS1ToT8S8O8ewiOZyTwXg=
+		vF9/yA3Tru1icM3p+XiCxwkIk+k=
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
@@ -162,51 +162,51 @@
 		</data>
 		<key>NetbankingCell.nib/objects-12.3+.nib</key>
 		<data>
-		/+rrQhTWU5STaDMMU0InBQClQCI=
+		QdfRS5WraJTcQSPeG7sEVbK0yFo=
 		</data>
 		<key>NetbankingCell.nib/runtime.nib</key>
 		<data>
-		LpaZyQJe0hMW1+m/LT1bIC2twC8=
+		xtjpMD2XS0lUI+QJDa/C67b3VYs=
 		</data>
 		<key>NetbankingView.nib</key>
 		<data>
-		kL5w8jQsS5iBvj8VniscBDL0PnA=
+		hHRuR2K1u7LIflDFvoT62jBGpIo=
 		</data>
 		<key>PaymentDetailVC.nib</key>
 		<data>
-		gmPDam/MBJqNd89eg0EDMeqAaUI=
+		wR7hSfOH4fprScb+UaiOP4hYBp0=
 		</data>
 		<key>PaymentModeCell.nib</key>
 		<data>
-		rKbDreAdzQR2zn8lObcmfbHNGTs=
+		r9iK2F8xoboO+1wzM1RaSQwfnc0=
 		</data>
 		<key>PaymentModesVC.nib</key>
 		<data>
-		AxWXhFIpDlLvwrbNG9gM9nsBz9s=
+		E798AQNBEcr5TpeoX8Ks4YN/9iI=
 		</data>
 		<key>SavedCardCell.nib/objects-12.3+.nib</key>
 		<data>
-		NPnBRItjAFkh1gwKEoxv7D3x9UM=
+		fd1lXYVnT+i4jltTJSeeOVgEW/8=
 		</data>
 		<key>SavedCardCell.nib/runtime.nib</key>
 		<data>
-		10P2WljD0b45+gdq867ltbLgq8A=
+		Q5vQwIWGzN/9Z5lFaKqYAlDpLFs=
 		</data>
 		<key>SavedCardCollection.nib</key>
 		<data>
-		8lMSpi1kKi3mImhvJ85783NXnx0=
+		Ea7/dkTYzRi64Ir+DeSOiv8Nbbw=
 		</data>
 		<key>SavedCardsHeader.nib</key>
 		<data>
-		ZQ50CdjapXOQp9DTOCv8oaka+R0=
+		5J/vUA4en7F/BCfIfcJiPt76FYQ=
 		</data>
 		<key>TransactionVC.nib</key>
 		<data>
-		OYxGuSvQ9ECBhkGKs/hV38eGnd4=
+		acJi7gDNG15bqhK9ghGSUwxsuGA=
 		</data>
 		<key>TransactionView.nib</key>
 		<data>
-		eZ2qmM0a4IU7FElmzwxzfdvQ6IA=
+		nrNvysrjyThgO4iQDMjZSdnx+10=
 		</data>
 		<key>Ubuntu-Bold.ttf</key>
 		<data>
@@ -242,23 +242,23 @@
 		</data>
 		<key>UpiView.nib</key>
 		<data>
-		yPtlSgi2tkVhyhVWmH5lEmCyNOg=
+		69p6vswlMk7aXj0IKqMrXfTbXQQ=
 		</data>
 		<key>WalletCell.nib/objects-12.3+.nib</key>
 		<data>
-		zvk8PT2OCcYZa08ODn+CaS2gVms=
+		wZvPSVJpSSbT2NVrgpgZ1GsRgxo=
 		</data>
 		<key>WalletCell.nib/runtime.nib</key>
 		<data>
-		NcZ5JKSVbDiysmWeAZwRGxTGziM=
+		yrBeJygPnvj2Rr5NVZXvAo6nsRU=
 		</data>
 		<key>WalletView.nib</key>
 		<data>
-		gZxAJO8vBQZ0jJpGtZpd0g01OS0=
+		N+ryObNkvWFyJAePs4oPZu80buk=
 		</data>
 		<key>WebVC.nib</key>
 		<data>
-		9VNYWt7qSgOC1d3F4tshCbRTxoA=
+		c4rbHZioZacGqxDBq+hTtd+Ydso=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -267,7 +267,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sgk32MZuv0riV5SpsfoFwAt9pG0NEn8kOAoiXrjgmDM=
+			vRHnjLYReoWNbgpQ6+cY6x7Ikf8iFc3RCjmfCJFWoYk=
 			</data>
 		</dict>
 		<key>Assets.car</key>
@@ -281,14 +281,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ooU+gB8bqEwmkyGo/+RxeFVe2q9wblMV//EKUFS1ggw=
+			MAGgbSMz/oLnCP3H5nk7lFE7MRiyfHSoxRoBxNp5vuw=
 			</data>
 		</dict>
 		<key>ContactDetailsVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X/iwTQLppfHriduopgCAUJAJF0XjGT7NChaF2kevSco=
+			OCZaOYzTQeXnXvZYWbaLUTqmJl/ReHN90idkr/tnuEY=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
@@ -533,84 +533,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j+Rn9nXRBFPi74HlPghOShA5TRbnaiUyLLVR3X7KK/4=
+			OjzMq8mqovMk3gZGSC91AUI4gQ/AJFz9NykW/dALp78=
 			</data>
 		</dict>
 		<key>NetbankingCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uHGnzs+nn2GDvrvmEP1GEQEjDkmb1JVUuwW46XyzSnw=
+			gsnIPI28WxV3pa8ve8bfPgzEr2Oa0rswfVW2uPTsqO4=
 			</data>
 		</dict>
 		<key>NetbankingView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ivt7yFpcqSbuoQpDI2WUZp8e/Ff5FpDy5PXOQf8WRb4=
+			EbsIOCZ+NbvVCxfrp9x9ggxXlCOandxFDhqL6+ZHJ3Q=
 			</data>
 		</dict>
 		<key>PaymentDetailVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6RtFtzAeh3rtSPhYcYSZMoygpTbOWqesevRGKSwkIh8=
+			A+YX3TBAErOSWxi7kcOOQCzXjCgHKrR0tK1epI/BLLA=
 			</data>
 		</dict>
 		<key>PaymentModeCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cKXkGSW+8k1lfF6cIbGSzM421irRO6Qe4G6eMWFXJSg=
+			UTcLhAVeWsRMFMx2PhyDeOyr+crzmYcVMTRnpLD/H+Q=
 			</data>
 		</dict>
 		<key>PaymentModesVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			daEYe1BhB3fJNSmjjh6f0i7hROHTe49FHrzS+2nZMe4=
+			h1lyojXm+fbpiufkQ26b7Deu3aiBoEudn4p2rBWIp2g=
 			</data>
 		</dict>
 		<key>SavedCardCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2GiscFZJp98NCa3IUmtUXvsmyRGodZSk/04EFlK1K9E=
+			5CQz52BVEJkzrPlRMOeQNVzgKz0AiDJwmNjDczBT+JE=
 			</data>
 		</dict>
 		<key>SavedCardCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8z33D0rZmVtPZuRHw/lSko3qP1+PuEKo/GngeF+/iHw=
+			IrzNfDflrC1ETCYShlsCMaw8xLXLcJh7mOk3AJG/MMQ=
 			</data>
 		</dict>
 		<key>SavedCardCollection.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BHhj3sQYzxoqCjuh5mMwtR7P70qHd1plTG1rToVDZQM=
+			3h1u+0Xin5IblianuSdrUhbhKc2whjn2NjqriNiMnaw=
 			</data>
 		</dict>
 		<key>SavedCardsHeader.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wLE9e+nukfl0sKAqD7MrUaGn+cuRzzbOtjM8PCytyLI=
+			/dGMfansZsPcJY6uECzgd0zrUy5rn/eYH1NiRgsQuDI=
 			</data>
 		</dict>
 		<key>TransactionVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			su8eeXdTUWCdDjyTNf0Vy2knDgMNi1hm5+NuUj7Y9Bg=
+			jjhFaMUS/HylG7eQq/JWF7c87sFdQ9oWRfEM93O38MA=
 			</data>
 		</dict>
 		<key>TransactionView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u/zKTGhoT3XUlGNzrJs4iaV5b8urFq9dLunCw733qKo=
+			sv7EoXEpJSD8y6FEwrFcqz8goMeVxaP08eBHf7DfH1c=
 			</data>
 		</dict>
 		<key>Ubuntu-Bold.ttf</key>
@@ -673,35 +673,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X4WGXdl4x0r3BtUvbqmTC+DaV7EImdqQabzhFAalMKs=
+			ut/grEOKYOxx3CqeT0KcCWaXxmmS2aqUUjBY81aHfPg=
 			</data>
 		</dict>
 		<key>WalletCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q9uZU9UMUOzg5+PjmbtZhO/FDFSuR4Kq7r1zYPVkEcM=
+			RbXkS17oZoM83Ar0QhUiN3hYxcfZ4tpIeVdTjKhH9Jg=
 			</data>
 		</dict>
 		<key>WalletCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GW+Guiqb6Z6PkZBjURpFIdPQeG1wjjZ8U5VvTZ3usSg=
+			Z/QC2+FbQzqgqsHMX5OU8zNSNxzbmBWwORjFzGYVql8=
 			</data>
 		</dict>
 		<key>WalletView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OkyWe6FlapIktA8AzWTPO+XaHAmJ7EPnpIJYL7WEkV8=
+			SOKTKPC7wlNjTk7uUu7DrKlH8o6VHSFEqWzMAkgGwnc=
 			</data>
 		</dict>
 		<key>WebVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gqWcNVdDxjoB69fPv0A9fwD+A4RAgrAIosBKj8eTh+s=
+			NQSUx/qTDD0rRg9F0hfxUoLtIgaXJAsb8OzUzqUC0sg=
 			</data>
 		</dict>
 	</dict>
