@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.author             = { 'Nagendra Yadav' => 'nagendra@safexpay.com' }
   spec.platform     = :ios
   spec.swift_version = '5.0'
-  spec.ios.deployment_target = '10.0'
+  spec.ios.deployment_target = '9.0'
   spec.source       = { :git => 'https://github.com/AbhijitPatilSafexpay/safexpay.git', :tag => "#{spec.version}" }
   # spec.source_files = 'safexpay/**/**'
   # spec.ios.resource_bundle = { 'SafexPay' => 'safexpay/**/*.{png, json}' }
