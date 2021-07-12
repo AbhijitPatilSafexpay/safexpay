@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = 'SafexPay'
-  spec.version      = '1.3.0'
+  spec.version      = '1.3.1'
   spec.summary      = 'SafexPay framework'
   spec.homepage     = 'https://github.com/AbhijitPatilSafexpay/safexpay'
   spec.description  = 'SafexPay framework for payments.'
@@ -11,9 +11,19 @@ Pod::Spec.new do |spec|
   spec.swift_version = '5.0'
   spec.ios.deployment_target = '9.0'
   spec.source       = { :git => 'https://github.com/AbhijitPatilSafexpay/safexpay.git', :tag => "#{spec.version}" }
-  spec.source_files = "safexpay/**/*"
+  # spec.source_files = 'safexpay/**/**'
+  spec.ios.resource_bundle = { 'SafexPay' => 'safexpay/**/*.{png, json}' }
+  spec.source_files     = ['safexpay/**/*.{h,m,swift,json,strings,xib,storyboard, xcassets}']
+  # spec.resources = ['*.{storyboard,xib,xcassets,json,png, jpg, jpeg, plist}', 'safexpay/Assets.xcassets']
+ spec.resources =  ["safexpay/**/*.{xib, json, .xcassets}", "safexpay/Assets.xcassets/**/*.{xib, json, .xcassets}"]
+#spec.resources = "safexpay/*.{xcassets,xib}"
+# spec.resource_bundles = {
+#     'SafexPay' => ['**']
+#   }
+ 
+
   spec.requires_arc = true
-  spec.exclude_files = "Classes/Exclude"
+  # spec.exclude_files = "Classes/Exclude"
 
   spec.dependency 'IQKeyboardManager'
   spec.dependency 'RSSelectionMenu'
